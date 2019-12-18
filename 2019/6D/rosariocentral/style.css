@@ -1,0 +1,164 @@
+header{ height: 70px;
+  background-color: yellow;
+  font-family: 'Indie Flower', cursive;
+}
+body{
+  background-image: url("img rosario central.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.botones a{
+    padding: 10px 20px 10px 20px;
+    border: 2px solid #2d6fba;
+    background-color: #2d6fba;
+    margin-right: 30px;
+    margin-left: 25px;
+    margin-top: 200px;
+    color: yellow;
+    font-family: 'Indie Flower', cursive;
+
+
+}
+
+.botones a:hover{
+    background-color: blue;
+    border: 2px solid #2d6fba;
+}
+footer{
+  background-color: #fffb17;
+  margin-top: 50px;
+
+}
+h3{
+  font-size: large;
+  font-style: italic;
+}
+h4{
+  font-size: large;
+  font-style: italic;
+}
+h5{
+  font-size: large;
+  font-style: italic;
+}
+.poy{
+margin-left: 10px;
+margin-top: 100px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+
+}
+.poy img{
+  height: 250px;
+  width: 300px;
+  padding: inherit;
+}
+
+.formrc{
+margin-left: 400px;
+margin-top: 100px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+}
+
+.formrc img{
+  height: 400px;
+  width: 350px;
+  padding: inherit;
+}
+
+.chaca{
+margin-left: 450px;
+margin-top: -410px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+
+}
+.chaca img{
+  height: 250px;
+  width: 300px;
+  padding: inherit;
+}
+.bauza{
+margin-left: 900px;
+margin-top: -380px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+
+}
+.bauza img{
+  height: 250px;
+  width: 300px;
+  padding: inherit;
+}
+.proxpart{
+margin-left: 400px;
+margin-top: 100px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+}
+
+.proxpart img{
+  height: 400px;
+  width: 400px;
+  padding: inherit;
+}
+
+.video{
+margin-left: 10px;
+margin-top: 100px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+
+}
+.video{
+  height: 300px;
+  width: 300px;
+  padding: inherit;
+}
+.video1{
+margin-left: 700px;
+margin-top: -300px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+
+}
+.video1{
+  height: 300px;
+  width: 300px;
+  padding: inherit;
+}
+.campeon{
+margin-left: 50px;
+margin-top: 100px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+}
+
+.campeon img{
+  height: 300px;
+  width: 500px;
+  padding: inherit;
+}
+.video2{
+margin-left:700px;
+margin-top: -300px;
+width: 300px;
+background-color: rgba(255, 255, 255, 0.5);
+padding: inherit;
+
+}
+.video2{
+  height: 300px;
+  width: 300px;
+  padding: inherit;
+}

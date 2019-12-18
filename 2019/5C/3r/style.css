@@ -1,0 +1,107 @@
+.contenedor{
+  overflow: hidden;
+background-color: #E0F8F7;
+
+}
+
+.uno{
+  width: 96%;
+  height: 200px;
+  float: left;
+  background-color: #E0F8F7;
+
+
+}
+.uno h1{
+  color: green;
+  font-family: 'Bitter', serif;
+}
+.importancia h2{
+  color: white;
+  font-family: 'Bitter', serif;
+
+
+}
+.importancia{
+  background-color: green;
+  width: 48%;
+  height: 100px;
+  float: left;
+  margin-right: 1px;
+  margin-top: 1px;
+  margin-left: 1px;
+  margin-bottom: 1px;
+
+
+}
+.importancia p{
+  color: white;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
+}
+.tres {
+  background-color: #E0F8F7;
+  width: 48%;
+  float: left;
+  margin-right: 1px;
+  margin-top: 1px;
+  margin-left: 1px;
+  margin-bottom: 1px;
+
+}
+.tres h2{
+  color: green;
+  font-family: 'Bitter', serif;
+}
+.tres p{
+  color: green;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
+}
+.cuatro {
+  background-color: green;
+  width: 48%;
+  float: left;
+  margin-right: 1px;
+  margin-top: 1px;
+  margin-left: 1px;
+  margin-bottom: 1px;
+
+}
+.cuatro h2{
+  color: white;
+  font-family: 'Bitter', serif;
+  
+}
+.cuatro p{
+  color: white;
+  font-family: 'Bitter', serif;
+  font-size: 12px;
+}
+.cinco{
+  background-color: #E0F8F7;
+  width: 48%;
+  float: left;
+  margin-right: 1px;
+  margin-top: 1px;
+  margin-left: 1px;
+  margin-bottom: 1px
+
+}
+img{
+  width: 30%;
+  height: 350px;
+  float: right;
+}
+.dos{
+  background-color: #E0F8F7;
+  width: 48%;
+}
+.dos h3{
+  color: white;
+  font-family: 'Bitter', serif;
+}
+ul{
+  color: white;
+    font-family: 'Bitter', serif;
+}

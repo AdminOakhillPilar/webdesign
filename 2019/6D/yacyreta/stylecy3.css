@@ -1,0 +1,73 @@
+h1{
+  font-size: 60px;
+  font-family: 'Nanum Myeongjo', serif;
+  margin-top:40px;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-weight: lighter;
+  line-height: 10px;
+}
+body{
+  background-image: url("img/pasto.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+  width: 100%;
+  height: 600px;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width:250px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}h2 {
+  font-size: 20px;
+  line-height: 0px;
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: center;
+  margin-top: inherit;
+  font-weight:100px;
+}
+p{
+font-family: : 'Nanum Myeongjo';
+font-size: 30PX;
+text-decoration: inherit;
+}
+p2{
+  font-family: : 'Nanum Myeongjo';
+  font-size: 20PX;
+  text-decoration: inherit;
+}
+ul{
+  padding:0px;
+  overflow:hidden;
+  float: none;
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 20px;
+
+}
+li{
+float: left;
+list-style:none;
+width: 20%;
+text-align: center;
+padding:10px;
+box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}

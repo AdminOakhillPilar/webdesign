@@ -1,0 +1,87 @@
+.index {
+  font-family: 'Oswald', sans-serif;
+  font-size: 70px;
+  text-align: center;
+  background-color: #428AA2;
+  color: white;
+}
+.Dolce{
+  width: 300px;
+  height: 300px;
+  background-color: grey;
+  float: left;
+  margin-right: 20px;
+}
+.dg1{
+  width: 100%;
+  height: 100%;
+}
+body{
+  background-color: black;
+}
+.barra{
+  overflow: hidden;
+  background-color: #B78787;
+  padding: 0%;
+}
+li{
+  float: left;
+  list-style: none;
+  width: 20%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+.Valentino{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 20px;
+}
+.v1{
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+.Chanel{
+  width: 300px;
+  height: 300px;
+  float: left;
+  margin-right: 20px;
+}
+.c1{
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+.Dior{
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+.d1{
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+.gabanna{
+  font-size: 70px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  background-color: #428AA2;
+  color: white;
+}
+.mySlides {display:none}
+
+.foot{
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  color: white;
+  background-color: #B78787;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}

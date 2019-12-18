@@ -1,0 +1,33 @@
+.primera{
+  float: right;width: 40%;
+  overflow: hidden;
+  margin-top: 160px;
+  border: 2px solid white;
+
+}
+main{background-color: green;
+margin-top:20px;
+padding-left: 10px;
+width: 100%
+}
+footer{background-color: black;
+width: 100%;
+margin-top: 10px;
+padding-top: 20px;
+
+}
+header{background-color: black;
+width: 100%;
+padding-bottom: 20px;
+margin-bottom: 10px;
+}
+.uruguay{ margin-top: 50px;
+  margin-left: 30px;
+border: 6px dotted black;
+width: 25%;
+
+}
+h4{
+  color: green;
+  height: 12px;
+}

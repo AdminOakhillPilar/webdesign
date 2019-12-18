@@ -1,0 +1,82 @@
+h1{
+  font-family: 'Lobster', cursive;
+  background-color: #327edb;
+}
+
+.logo {
+  width: 250px;
+}
+body{
+  background-color: #DAECFA;
+  background-image: url(https://www.cursogestioncamposgolf.com/images/stories/noticias/160526.GG.Pitchputt.jpg);
+  /* background-repeat: no-repeat; */
+  background-size: 120%, 100%;
+
+}
+
+img{
+  align-content: center;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #AFEBA4;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #AFEBA4;
+  text-align: center;
+}
+ul{
+  overflow: hidden;
+  background-color:#AFEBA4;
+  padding: 0px;
+}
+li{
+  float: right;
+  list-style: none;
+  width: 20%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+*{
+  box-sizing: border-box;
+}
+a:hover{
+  color: grey
+}
+.caja{
+  margin-bottom: 10px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 50px
+  border: 5px solid Black;
+  height: 200px;
+  width: 70%;
+  background-color: #AFEBA4;
+  overflow: hidden;
+}
+.imagen{
+  height:200px;
+  width:20%;
+  margin: 10px;
+  overflow: hidden;
+  float: left;
+}
+
+.imagen img{
+
+  width:100%;
+}
+.texto{
+  overflow: hidden;
+  /* margin-left: 24%; */
+  float: right;
+  width:70%;
+}

@@ -1,0 +1,65 @@
+.info{
+width: 500px;
+
+}
+img{
+  width: 60%;
+  float: left;
+}
+body{
+  background-color: white;
+}
+
+header{
+  color: black;
+  background-color:aqua;
+  float: inherit; 100%
+}
+footer{
+  width: 50px;
+  height: 30px;
+  background-color: blue;
+}
+main{
+  background-color: withe;
+  float: left;
+}
+ul{
+  padding: 0px;
+  background-color: blue;
+  overflow: hidden;
+  list-style-type: none;
+  text-align: center;
+}
+li{
+  box-sizing: border-box;
+  padding: 10px;
+  text-align: center;
+  width: 20%
+  list-style: none;
+  float: left;
+  display: inline;
+  margin: 10px;
+}
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+h1{
+  font-family: 'Bebas Neue', cursive;
+  align:center;
+}
+h2{
+  color: red;
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+  align:center;
+}
+p{
+  font-family: 'Comfortaa', cursive;
+  color: black;
+}
+footer{
+  margin-top: 250px;
+  width: 100px;
+}

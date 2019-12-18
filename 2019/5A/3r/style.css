@@ -1,0 +1,109 @@
+#Reciclando-juntos{
+  color:#73AD64;
+
+}
+#3r{
+  color:#73AD64;
+}
+h2{
+  color:#73AD64;
+}
+main{
+  overflow: hidden;
+}
+background{
+  color: #7DE89D;
+}
+.reducir{
+  width: 30%;
+  height:150px;
+  float:left;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-left: 25px;
+  margin-bottom: 35px;
+  border:5px solid black;
+  padding: 15px;
+  font-family: 'Oswald', sans-serif;
+
+  background:#73AD64;
+  box-sizing: border-box;
+
+}
+
+.reciclar{
+  width: 30%;
+  height:150px;
+  float:left;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-left: 25px;
+  margin-bottom: 35px;
+  border:5px solid black;
+  padding: 15px;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+
+  background:#73AD64;
+}
+.reutilizar{
+  width: 30%;
+  height:150px;
+  float: left;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-left: 25px;
+  margin-bottom: 35px;
+  border:5px solid black;
+  padding: 15px;
+  font-family: 'Oswald', sans-serif;
+
+  background:#73AD64;
+box-sizing: border-box;
+}
+h1{
+  font-family: 'Wallpoet', cursive;
+
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+
+}
+.info{
+  width: 15%;
+  height:200px;
+  float:right;
+  margin-top: 80px;
+  margin-left: 25px;
+  margin-right: 350px;
+  margin-bottom: 0px;
+  border:5px dashed #73AD64;
+  padding: 15px;
+  font-family: 'Bebas Neue', cursive;
+
+
+}
+.more{
+  width: 15%;
+  height:170px;
+  float:left;
+  margin-top: 0px;
+  margin-left: 80px;
+  margin-right: 150px;
+  margin-bottom: 350px;
+  border:5px dashed #73AD64;
+  padding: 15px;
+  font-family: 'Bebas Neue', cursive;
+
+}
+img{
+  margin-left: 20px;
+}
+H4{
+  font-family: 'Bowlby One SC', cursive;
+  color:#73AD64;
+
+}
+body{
+  background-image:url(../3R morzis 14-11/fondo1.jpg);
+}

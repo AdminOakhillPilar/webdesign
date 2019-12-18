@@ -1,0 +1,19 @@
+h1{
+  font-family:  'Mansalva', cursive;
+color: rgb(0,0,77);
+font-size: 75px;
+}
+
+body{
+  background-image:url("ravioles.jpg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-family:  'Roboto Slab', serif;
+  font-size: 25px;
+}
+.Tito{
+  background-color: rgba(234, 229, 229, 0.5);
+}

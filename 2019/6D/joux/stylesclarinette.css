@@ -1,0 +1,27 @@
+.titulovich{
+  color: #125DFF;
+}
+
+.instrum{
+  margin: 50px;
+  background-color: #125DFF;
+  border: 5px solid black;
+}
+
+.tipovichs{
+  margin: 50px;
+  background-color: #7E46E8;
+  border: 5px solid black;
+}
+
+.sucur{
+  margin: 50px;
+  background-color: #EB8019;
+  border: 5px solid black;
+}
+
+.instrumentos{
+  background-image: url("img/cortapasto.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

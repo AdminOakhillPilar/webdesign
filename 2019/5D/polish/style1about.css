@@ -1,0 +1,133 @@
+
+  h1{
+    font-size: 60px;
+    font-family: 'Nanum Myeongjo', serif;
+    margin-top:40px;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-weight: lighter;
+    line-height: 10px;
+  }
+h2{
+    font-size: 20px;
+    line-height: 0px;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    margin-top: inherit;
+    font-weight:100px;
+  }
+
+  h3{
+    font-size: 15px;
+    line-height: 0px;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    margin-top: inherit;
+    font-weight:150px;
+    }
+  p{
+  font-family: : 'Nanum Myeongjo';
+  font-size: 40PX;
+  text-decoration: inherit;
+  }
+  ul{
+    padding:0px;
+    overflow: hidden;
+    background-color: rgba(255,255,204,0.2.);
+  }
+  li{
+    float: left;
+    list-style:none;
+    width: 20%;
+    text-align: center;
+    padding:10px;
+    box-sizing: border-box;
+    color:black;
+  }
+  a{
+    text-decoration: none;
+  }
+  footer
+  {
+      margin-top:50px;
+      width:100%;
+      height:200px;
+    }
+  footer p{
+    font-size: 20px;
+  }
+
+  .contenedora{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    text-align: justify;
+    color: white;
+    background-color: black;
+    border: 3px solid red;
+  }
+
+  .PBR{
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+  .PBR p{
+    font-size: 28px;
+  }
+  .PBR h2{
+    font-size: 35px;
+    line-height: 0px;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    margin-top: inherit;
+    font-weight:100px;
+    color: white;
+    background-color: black;
+  }
+
+  .AY{
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+  .AY p{
+    font-size: 28px;
+  }
+  .AY h2{
+    font-size: 35px;
+    line-height: 0px;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    margin-top: inherit;
+    font-weight:100px;
+    color: white;
+    background-color: black;
+  }
+
+  .MF{
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+  .MF p{
+    font-size: 28px;
+  }
+  .MF h2{
+    font-size: 35px;
+    line-height: 0px;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    margin-top: inherit;
+    font-weight:100px;
+    color: white;
+    background-color: black;
+  }

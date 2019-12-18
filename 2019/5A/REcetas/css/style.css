@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+ul{
+  overflow: hidden;
+  background-color: pink;
+  padding: 0px;
+}
+.barra{
+  overflow:hidden;
+  background-color: pink;
+  padding: 0px;
+}
+
+.barra li{
+  float:left;
+  list-style: none;
+  width: 25%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Arvo', serif;
+}
+.barra li:hover{
+  background-color: pink;
+  color: pink;
+}
+.barra a:hover{
+  color: rgb(95, 215, 183);
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+h1{
+text-align: center;
+font-family: 'Dancing Script', cursive;
+font-size: 50px;
+}
+p{
+text-align: center;
+font-family: 'Arvo', serif;
+margin: 10px;
+
+}
+h2{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+img{
+  height: 300px;
+  width: 20%;
+  float: left;
+}
+.qs p{
+  float: right;
+  padding-top: 150%;
+}
+
+.lim.{
+  height: 10%;
+  width:15%;
+  margin-right: 30%;
+  }
+div{
+  height:301px;
+
+}
+.footer p{
+text-align: left;
+font-family: 'Arvo', serif;
+
+}

@@ -1,0 +1,52 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  font-size: 260%;
+  font-family: 'Lekton', sans-serif;
+}
+li{
+  width: 24%;
+  float: left;
+  font-family: 'Lekton', sans-serif;
+  list-style: none;
+  color: #FFFFFF;
+  display: inline;
+}
+
+li:hover{
+  text-decoration: underline;
+  }
+
+footer{
+  color:white;
+  font-family: 'Lekton', sans-serif;
+}
+.remera1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.remera2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.remera3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.remera4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+.imag{
+  float: left;
+  overflow: hidden;
+}

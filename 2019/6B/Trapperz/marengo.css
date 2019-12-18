@@ -1,0 +1,77 @@
+*{
+  box-sizing: border-box;
+}
+#tituloindex{
+
+  font-size: 50px;
+text-align: center;
+  background-color: rgba(255, 255, 255, 0.2);
+  font-family: 'Mansalva', cursive;
+
+}
+.traperos{
+  width: 400px;
+  height: 300px
+}
+
+.duko {
+  float: left;
+  margin: 7px;
+}
+
+.arbol {
+
+  color: white;
+}
+.index {
+  background-image: url("https://cdn.tn.com.ar/sites/default/files/styles/1366x765/public/2017/11/17/1117_recital_felicidad_1280.jpg");
+}
+
+.duketo {
+  background-image: url("https://i1.wp.com/elpodiomendoza.news/wp-content/uploads/2019/04/DUKI.jpg?fit=800%2C510&ssl=1");
+}
+
+.wosito {
+  background-image: url("wosito.png");
+color: white
+}
+
+.textoprincipal{
+  margin-left: 25%;
+  margin-right: 5%;
+  height: 60px;
+  width: 70%;
+  font-family: 'Inconsolata', monospace;
+}
+#fondoblanco p{
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.textoduki{
+  margin-left: 10%;
+  margin-right: 80%;
+  color: white;
+  height: 200px;
+  width: 60%;
+  margin: 30px;
+}
+ul{
+  overflow: hidden;
+  padding: 0px;
+
+}
+li{
+  float: left;
+  list-style: none;
+  width: 20%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-left: 200px;
+  margin-right: 150px;
+  font-family: 'Anton', sans-serif;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+}

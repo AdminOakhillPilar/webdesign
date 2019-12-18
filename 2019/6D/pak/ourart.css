@@ -1,0 +1,262 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  font-size: 260%;
+  font-family: 'Lekton', sans-serif;
+}
+li{
+  width: 24%;
+  float: left;
+  font-family: 'Lekton', sans-serif;
+  list-style: none;
+  color: #FFFFFF;
+  display: inline;
+}
+
+li:hover{
+  text-decoration: underline;
+  }
+
+footer{
+  color:white;
+  font-family: 'Lekton', sans-serif;
+  float: right;
+}
+
+
+.art1{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art2{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art3{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art4{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art5{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art6{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art7{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art8{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art9{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art10{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art11{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art12{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art13{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art14{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art15{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art16{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art17{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art18{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art19{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art20{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+  }
+
+.art21{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+
+.art23{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art24{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art25{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+
+.art26{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art27{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art28{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art29{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art30{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art31{
+  padding: 20px;
+  height: 120px;
+  width: 120px;
+  float: right;
+  overflow: hidden;
+}
+.art33{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art35{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}
+.art36{
+padding: 20px;
+height: 120px;
+width: 120px;
+float: right;
+overflow: hidden;
+}

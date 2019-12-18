@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <title>D&G by TLT</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  </head>
+  <body>
+   <header>
+     <h1 class="gabanna">Dolce & Gabbana</h1>
+     <ul class="barra">
+       <li> <a style="text-decoration:none;color: white;"href="index.html">HOME</a> </li>
+       <li> <a style="text-decoration:none;color: white;"href="dolce.html">DOLCE & GABBANA</a> </li>
+       <li> <a style="text-decoration:none;color: white;" href="valentino.html">MAISON VALENTINO</a> </li>
+       <li> <a style="text-decoration:none;color: white;"href="chanel.html">CHANEL</a> </li>
+       <li> <a style="text-decoration:none;color: white;"href="dior.html">DIOR</a> </li>
+     </ul>
+   </header>
+   <main>
+
+
+
+   </main>
+  </body>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none}
+</style>
+<body>
+
+
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="dolcemuchas3.jpg" style="width:50%">
+  <img class="mySlides" src="dolcemuchas2.jpg" style="width:50%">
+  <img class="mySlides" src="dolcemuchas1.jpg" style="width:50%">
+  <img class="mySlides" src="dolcemuchas4.jpg" style="width:50%">
+  <img class="mySlides" src="dolcemuchas5.jpg" style="width:50%">
+  <img class="mySlides" src="dolcemuchas6.jpg" style="width:50%">
+</div>
+
+<div class="w3-center">
+  <div class="w3-section">
+    <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
+    <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
+  </div>
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button>
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button>
+  <button class="w3-button demo" onclick="currentDiv(3)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(4)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(5)">3</button>
+  <button class="w3-button demo" onclick="currentDiv(6)">3</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" w3-red", "");
+  }
+  x[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " w3-red";
+}
+</script>
+
+</html>

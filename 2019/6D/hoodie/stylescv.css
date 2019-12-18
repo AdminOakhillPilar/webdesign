@@ -1,0 +1,67 @@
+body{
+background-image: url("img/ocean.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+header{
+background-color:#bfc136
+}
+
+
+footer{
+background-color:#bfc136;
+margin-top: 50px;
+}
+h3{
+  font-size: large;
+  font-style: italic;
+}
+h4{
+  font-size: large;
+  font-style: italic;
+}
+h5{
+  font-size: large;
+  font-style: italic;
+}
+h6{
+  font-size: large;
+  font-style: italic;
+}
+.Logo {
+margin-top: 50px;
+margin-left: 300px;
+margin-bottom: 50px;
+}
+
+.project{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.parrafo{
+  background-color: #fffafa;
+  margin-right: 750px;
+  margin-left: 20px;
+}
+
+.parrafo1{
+  background-color: #fffafa;
+  margin-right: 750px;
+  margin-left: 20px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+  .parrafo2{
+    background-color: #fffafa;
+    margin-right: 750px;
+    margin-left: 20px;
+  }
+
+  #help {
+    height: 300px;
+    width:300px;
+  }

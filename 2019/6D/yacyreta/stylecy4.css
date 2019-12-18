@@ -1,0 +1,47 @@
+h1{
+  font-size: 60px;
+  font-family: 'Nanum Myeongjo', serif;
+  margin-top:40px;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-weight: lighter;
+  line-height: 10px;
+}
+body{
+  background-image: url("img/descarga2.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100%;
+  height: auto;
+}
+h2 {
+  font-size: 20px;
+  line-height: 0px;
+  font-family: 'Nanum Myeongjo', serif;
+  text-align: center;
+  margin-top: inherit;
+  font-weight:100px;
+}
+p{
+font-family: : 'Nanum Myeongjo';
+font-size: 50PX;
+text-decoration: inherit;
+}
+ul{
+  padding:0px;
+  overflow: hidden;
+  background-color: rgba(255,255,204,0.2.);
+}
+li{
+float: left;
+list-style:none;
+width: 20%;
+text-align: center;
+padding:10px;
+box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  font-family:  'Nanum Myeongjo';
+  font-size: 20px;
+}

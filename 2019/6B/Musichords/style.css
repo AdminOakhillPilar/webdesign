@@ -1,0 +1,118 @@
+*{
+  box-sizing: border-box;
+}
+.navbar{
+  margin: 70px;
+  margin-bottom: 40px;
+}
+
+.generos{
+  width: 40%;
+  height: 75px;
+  background-color: #7B3E49;
+  margin-left: 110px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 140px;
+  padding-top: 26px;
+  font-family: 'Poppins', sans-serif;
+}
+.top50{
+  width: 40%;
+  height: 75px;
+  background-color: #32101A;
+  margin-left: 40px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 140px;
+  padding-top: 26px;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+background-image: url("fondo.jpg");
+
+}
+.virales{
+  width: 40%;
+  height: 75px;
+  background-color: #632034;
+  margin-left: 40px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 140px;
+  padding-top: 26px;
+  font-family: 'Poppins', sans-serif;
+}
+.artistas{
+  width: 40%;
+  height: 75px;
+  background-color: #E890AA;
+  margin-left: 110px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 140px;
+  padding-top: 26px;
+  font-family: 'Poppins', sans-serif;
+
+}
+.playlists{
+  width: 40%;
+  height: 75px;
+  background-color: #E34977;
+  margin-left: 40px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 140px;
+  padding-top: 26px;
+  font-family: 'Poppins', sans-serif;
+
+}
+.nuevoslanzamientos{
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 110px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 120px;
+  padding-top: 26px;
+  font-family: 'Poppins', sans-serif;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+h1{
+  margin-left: 485px;
+  margin-bottom: 150px;
+  margin-top: 150px;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: white;
+
+}
+
+.logo {
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 15px;
+  font-size: 50px;
+
+}
+
+.slogan {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: white;
+  margin-bottom: 70px;
+  margin-left: 700px;
+  margin-top: 0px;
+
+}

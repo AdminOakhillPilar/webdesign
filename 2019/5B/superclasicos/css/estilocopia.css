@@ -1,0 +1,43 @@
+header {
+  background: #008000
+}
+
+
+header::after {
+  content: none;
+  display: table;
+  clear: both;
+}
+
+
+
+
+
+nav li {
+  display: inline-block;
+  margin-left: 35px;
+  padding-bottom: 25px:
+  padding-top: 25px;
+}
+
+
+body {
+  background-color: #00FFFF
+}
+
+
+
+
+
+ul {
+  margin: 20px;
+  padding-bottom: 25px;
+  list-style: none;
+}
+
+footer {
+  background-color:  #008000
+  display: inline-block;
+  margin-top: : 25px;
+  margin-bottom: : 25px;
+}

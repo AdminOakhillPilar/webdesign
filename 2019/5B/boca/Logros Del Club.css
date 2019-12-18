@@ -1,0 +1,26 @@
+h3{
+  height: 50px;
+  width: 500px;
+  font-size: 400xp;
+  float: left;
+  color: #EFB810;
+}
+h4{
+  height: 50px;
+  width: 500px;
+  font-size: 400xp;
+  float: right;
+  color: #EFB810;
+}
+
+body{
+background-image: url(image3.png);
+background-repeat: no-repeat;
+background-size: 1300px 900px;
+height: 100px;
+width: 99.4%;
+}
+a{
+  color: white;
+  
+}

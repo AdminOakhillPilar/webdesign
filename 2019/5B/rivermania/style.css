@@ -1,0 +1,46 @@
+h2{color: white;
+background-color: red;
+font-family: fantasy;
+box-sizing: border-box;
+font-size: 40px;}
+
+h1{color: white;
+background-color: red;
+font-family: fantasy;
+box-sizing: border-box;
+font-size: 50px;
+
+}
+body {background-image:url(images.jpg); }
+li{color: red;
+  background-color: white;
+   font-family: fantasy;}
+a{color: red;
+  background-color: white;
+  font-family: fantasy;
+  box-sizing: border-box;
+}
+
+h3{color: red;
+  background-color: white;
+  font-family: fantasy;
+  box-sizing: border-box;
+  font-size: 25px;
+}
+h4{color: red;
+  background-color: white;
+  font-family: fantasy;
+  box-sizing: border-box;
+  font-size: 25px;
+}
+h5{color: red;
+  background-color: white;
+  font-family: fantasy;
+  box-sizing: border-box;
+  font-size: 25px;
+}
+p{font-size: 25px;
+color: white;
+font-family:fantasy;
+box-sizing: border-box;
+background-color: black;}

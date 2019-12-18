@@ -1,0 +1,41 @@
+header {background-color: rgb(216, 36, 36);
+height: 150px;
+overflow: hidden;
+}
+
+.Titulo{
+float: right;
+width: 70%;
+}
+
+.Logo{ height: 100px;
+  width: 30%;
+  float: middle;
+}
+.Contenedor{
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.Remeras{
+  color: Black;
+  height: 30px;
+  width: 15%;
+  float: left;
+}
+
+}
+.Buzos{
+  color: Black;
+  height: 30px;
+  width: 15%;
+  float: left;
+}
+.Pantalones{
+  color: Black;
+  height: 30px;
+  width: 15%;
+  float: left;
+}

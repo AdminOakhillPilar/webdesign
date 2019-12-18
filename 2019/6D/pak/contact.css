@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  font-size: 260%;
+  font-family: 'Lekton', sans-serif;
+}
+li{
+  width: 24%;
+  float: left;
+  font-family: 'Lekton', sans-serif;
+  list-style: none;
+  color: #FFFFFF;
+  display: inline;
+}
+
+li:hover{
+  text-decoration: underline;
+  }
+
+footer{
+  color:white;
+  font-family: 'Lekton', sans-serif;
+}
+
+.insta{
+  font-family: 'Lekton', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+.foto{
+  height: 50px;
+  width: 50px;
+}
+.wap{
+    font-family: 'Lekton', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.wapi{
+  height: 100px;
+  width: 100px;
+}

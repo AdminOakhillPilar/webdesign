@@ -1,0 +1,119 @@
+*{
+  box-sizing: border-box;
+}
+.tituloheader{
+  color: rgb(101, 221, 203);
+font-family: monospace;
+font-size: 30px;
+margin: 1px;
+text-align: center;
+}
+
+
+.nav{
+  overflow:hidden;
+  background-color: rgb(95, 215, 183);
+  padding: 0px;
+}
+
+.nav li{
+  float:left;
+  list-style: none;
+  width: 25%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  color: white;
+}
+.nav li:hover{
+  background-color: white;
+  color: rgb(95, 215, 183);
+}
+.nav a:hover{
+  color: rgb(95, 215, 183);
+}
+
+.pp{
+width: 9.7%;
+height: 100px;
+margin-bottom: : 0px;
+}
+a{
+  color:white;
+}
+
+.titulomain{
+  color: #a173f3;
+  font-family: monospace;
+  text-align: center;
+}
+
+.tit2{
+  text-decoration: underline;
+  text-decoration-color: #a173f3;
+  text-decoration-style: solid;
+  font-family: serif;
+  text-align: center;
+}
+
+.texto1{
+  font-size: 20px;
+  background-color: rgb(95, 215, 183);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding: 20px;
+}
+
+.adop{
+float: left;
+width: 50%;
+height: 700px;
+border-color:rgb(95, 215, 183);
+border-style: solid;
+border-width: thick;
+font-size: 20px;
+padding-left: 50px
+
+}
+.adop2{
+  float: right;
+  width: 50%;
+  height: 700px;
+  border-color:rgb(95, 215, 183);
+  border-style: solid;
+  border-width: thick;
+  font-size: 20px;
+  padding-left: 50px
+}
+
+.perri{
+  width: 400px;
+  height: 400px;
+  margin-left: 100px;
+}
+.ayudarnos{
+  font-size: 20px;
+  background-color: rgb(95, 215, 183);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding: 20px;
+}
+
+.ayu{
+  width: 280px;
+  height: 280px;
+}
+
+.foot{
+  float: right;
+  width: 50%;
+}
+
+.foot2{
+  float: left;
+  width: 50%;
+}

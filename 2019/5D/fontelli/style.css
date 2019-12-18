@@ -1,0 +1,35 @@
+h1{
+  color:black
+}
+h2{
+  color:black
+}
+.caja1{
+  color:purple;
+  float:left;
+  width:49%
+  border: 2px solid black
+}
+.caja2{
+  color:purple;
+  float: left;
+  width: 49%;
+  border: 2px solid black
+}
+.caja3{
+  color: purple;
+  float: right;
+  width: 49%;
+  border: 2px solid black;
+}
+img{
+  width: 95%;
+  height: 450px;
+  box-sizing: border-box;
+  padding: 25px;
+  background-color: purple;
+}
+html{
+  background-color: pink
+}
+ul{list-style-type: lower-roman;}

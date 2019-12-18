@@ -1,0 +1,25 @@
+img{
+  width: 75%;
+  height: 350px;
+  box-sizing: border-box;
+  padding: 25px;
+  background-color: purple;
+}
+.caja1{
+  color:purple;
+  float:left;
+  width:49%
+  border: 2px solid black
+}
+h1{
+  color: black
+}
+h2{
+  color: black
+}
+h4{
+  color: black
+}
+html{
+  background-color: pink
+}

@@ -1,0 +1,39 @@
+h1{
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  color: rgb(176, 181, 177);
+  font-size: 80px;
+  }
+body{
+  background-color: rgb(66, 71, 67);
+}
+h2{
+    color: rgb(176, 181, 177);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+ul{
+  color: rgb(176, 181, 177);
+  font-size: 30px;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.Matambre{
+  float: left;
+}
+.Vacio{
+  float: right;
+}
+.Costillita{
+  float: left;
+}
+.Bondiola{
+  float: right;
+}
+img{
+  height: 250px;
+  width: 500px;
+
+}
+header{
+  color: rgb(176, 181, 177);
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 30px
+}

@@ -1,0 +1,51 @@
+h1{
+  font-family:  'Mansalva', cursive;
+color: rgb(0,0,77);
+font-size: 75px;
+}
+.tato{
+  color: rgb(0,0,0);
+  font-family:  'Roboto Slab', serif;
+  font-size: 25px;
+}
+body{
+  background-image:url("Pastas2.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+ul{
+  color: rgb(0,0,0);
+  font-family: "Roboto Slab",sans-serif;
+  font-size: 40px;
+}
+.Ñoquis{
+  float: left;
+  width:25%;
+}
+.Ravioles{
+  float: left;
+  width:25%;
+
+
+}
+.Sorrentino{
+  float: left;
+  width:25%;
+
+}
+.tato{
+margin-left: 50px;
+ overflow: hidden;
+}
+.tato{
+  font-size: 20px;
+    font-family:  'Mansalva', cursive;
+    float: center;
+      background-color: rgba(234, 229, 229, 0.5);
+}
+
+*{
+  font-family:  'Mansalva', cursive;
+}

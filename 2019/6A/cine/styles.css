@@ -1,0 +1,75 @@
+
+h1{
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+}
+
+
+h2{
+  font-family: "Hepta Slab",sans-serif;
+}
+
+body{
+  background-color: rgb(135, 136, 153
+
+    );
+}
+
+img{
+  width: 500px;
+  height: 300px;
+}
+
+.got{
+  float:right;
+}
+
+.it{
+  float:right;
+}
+
+*{
+  box-sizing: border-box;
+}
+.menu{
+    overflow: hidden;
+    margin-left: 29%;
+}
+.menu li{
+  float: left;
+  list-style: none;
+  width: 90px;
+  height: 40px;
+  text-align: center;
+  background-color: rgb(191, 183, 17)
+  color: white;
+  border:solid 2px black;
+  padding-top: 10px;
+  font-family: "Titillium Web",sans-serif;
+}
+.menu li:hover{
+  background-color: white;
+  color: rgb(191, 183, 17)
+}
+
+ul{
+  font-family: "Titillium Web", sans-serif;
+  font-size: 23px;
+}
+
+
+p{
+  font-family: "Hepta Slab", sans-serif;
+}
+
+a{
+  text-decoration: none;color: rgb(36, 35, 27)
+}
+
+.accion{
+  float: left;
+}
+
+.drama{
+  float: left;
+}

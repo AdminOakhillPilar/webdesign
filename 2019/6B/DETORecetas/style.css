@@ -1,0 +1,52 @@
+body{
+  background-color: #FE9A2E;
+  font-family: 'Lora', serif;
+}
+
+.titulo {
+text-align: center;
+margin-bottom: 60px;
+margin-top: 50px;
+}
+
+.linea {
+  background-color: white;
+  width: 100%;
+  height: 40px;
+}
+
+.img {
+ width: 450px;
+ height: 350px;
+ margin-left: 17px;
+}
+
+.tortaoreo {
+  float: left;
+  overflow: hidden;
+}
+
+.chocotorta {
+  text-align: center;
+}
+
+.cheesecake {
+  float: right;
+  overflow: hidden;
+}
+
+.tortaoreoporcion {
+  height: 600px;
+  width: 850px;
+}
+
+.cheesecakeporcion {
+  height: 500px;
+  width: 850px;
+}
+
+.linita {
+  background-color: black;
+  height: 3px;
+  width: 100%;
+}

@@ -1,0 +1,91 @@
+body{ background-color: purple;
+}
+p{
+  color: white;
+}
+
+ul{
+  overflow: hidden;
+  background-color: #;
+  padding: 0px;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.sep li{
+  float: left;
+  list-style: none;
+  width: 33%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  color: green;
+  image-orientation: center;
+
+}
+
+.sep li:hover{
+  background-color: lightgreen;
+  color: #ffffff;
+  text-align: center;
+
+}
+
+.fotulis{
+width: 30%;
+height: 25%;
+
+}
+
+.logo{
+width: 2%;
+height: 2%;
+}
+
+h1{
+  text-align: center;
+  image-orientation: center;
+}
+
+.barra{
+  text-decoration: inherit;
+  text-shadow: orientation;
+}
+
+
+
+.parrafo {
+margin-left: 25%;
+margin-right: 25%;
+color: #fff;
+shape-margin: 1%;
+}
+
+.iuju{
+margin-left: 39%;
+margin-right: 35%;
+}
+
+.lol{
+width:  5%;
+height: 5%;
+}
+
+.jaja{
+margin-left: 28%;
+float: left;
+}
+
+.zizi{
+width: 45%;
+height: 45%;
+margin-left: 29%
+}

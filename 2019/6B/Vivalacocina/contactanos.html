@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+  </head>
+  <body>
+    <div id="after_submit"></div>
+    <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+      <div class="row">
+        <label class="required" for="name">Nombre:</label><br />
+        <input id="name" class="input" name="name" type="text" value="" size="50" /><br />
+        <span id="name_validation" class="error_message"></span>
+      </div>
+      <div class="row">
+        <label class="required" for="email">Mail:</label><br />
+        <input id="email" class="input" name="email" type="text" value="" size="50" /><br />
+        <span id="email_validation" class="error_message"></span>
+      </div>
+      <div class="row">
+        <label class="required" for="message">Mensaje:</label><br />
+        <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+        <span id="message_validation" class="error_message"></span>
+      </div>
+
+        <input id="submit_button" type="submit" value="Enviar Mensaje" />
+    </form>
+<a href="index.html" class="home"><h8>Volver al inicio...</h8></a>
+    <footer>
+      <ul>
+        <li>Luisa Nazar Anchorena y Camila Brosens</li>
+        <li>6to B</li>
+        <li>Colegio Oakhill</li>
+        <li>Digital House 2019</li>
+     </ul>
+   </footer>
+  </body>
+</html>

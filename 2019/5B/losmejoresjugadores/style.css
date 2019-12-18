@@ -1,0 +1,17 @@
+ul{
+  overflow: hidden;
+  background-color: black;
+  padding: 0px;
+}
+li{
+  float: left;
+  list-style: none;
+  width: 20%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+a{
+  color: #ffff;
+  text-decoration: none;
+}

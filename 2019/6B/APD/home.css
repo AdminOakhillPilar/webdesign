@@ -1,0 +1,159 @@
+*{
+  box-sizing: border-box;
+}
+.contenedoruno{
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
+.contenedordos{
+  overflow: hidden;
+}
+.contenedorsiete{
+
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+}
+.logo img{
+  width: 100%;
+  height: 100%;
+}
+.barradenavegacion{
+  float: right;
+}
+.fixture{
+  width: 100%;
+  height:650px;
+}
+
+.fixture img{
+  height: 100%;
+  width: 100%;
+}
+
+#FIXTURE{
+  background-image: url("https://i.pinimg.com/originals/7e/5f/60/7e5f60e5ff5fdbd3041eb011b824be9a.jpg");
+}
+ul{
+  overflow: hidden;
+  padding: 0px;
+  margin-right: 300px;
+}
+
+li{
+  font-size: 20px;
+  height: 60px;
+  float: left;
+  list-style: none;
+  width:150px;
+  background-color:red;
+  box-sizing: border-box;
+  padding: 5px;
+  text-align: center;
+  }
+
+a{
+color:#FFFFFF;
+text-decoration: none;
+font-family: 'Cuprum', sans-serif;
+}
+
+li:hover{
+background-color: black;
+text-decoration: underline;
+
+}
+
+.barra{
+  width: 77%;
+  height: 100px;
+  background-color: white;
+  float: left;
+  padding-right: 1px;
+
+}
+.imagenprincipal img{
+  width: 1070px;
+  height: 400px;
+background-color: green;
+}
+.imagenprincipal p{
+font-family: 'Notable', sans-serif;
+}
+.cajauno img{
+  width: 355px;
+  height: 450px;
+  float: left;
+}
+.cajauno p{
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.cajados img{
+  width:355px;
+  height: 450px;
+  float: left;
+
+}
+.cajatres img{
+  width:355px;
+  height: 450px;
+  float: left;
+}
+.TITULO{
+  align-content: center;
+  font-family: 'Yeseva One', cursive;
+  text-align: center;
+}
+.contenedortres{
+  background-color:rgba(212, 212, 212, 0.9);
+
+}
+.contenedorcinco{
+  background-color: rgba(212, 212, 212, 0.9);
+}
+.contenedorseis{
+  float: left;
+}
+#inscripcion{
+  background-image: url("http://www.zemper.com/coatzem/uploads/2016/10/fondo-blanco.jpg");
+
+}
+h2{
+  font-size: 50px;
+}
+h3{
+  font-size: 50px;
+}
+h4{
+  font-size: 50px;
+}
+h5{
+  font-size: 50px;
+}
+
+body{
+  background-color: rgb(86, 196, 116);
+}
+
+
+  #contacto{
+    background-image: url("https://st1.agmeducation.com/media/2017/11/Vicky-conde3.jpeg");
+    background-size:1350px;
+  }
+
+footer{
+  height: 100px;
+  width: 100%;
+  background-color:black;
+
+}
+
+#QUESOMOS{
+  background-image:url(LOGOFONDO.jpg) ;
+}

@@ -1,0 +1,172 @@
+header {background-color: rgb(216, 36, 36);
+height: 150px;
+overflow: hidden;
+}
+
+.Titulo{
+float: right;
+width: 70%;
+}
+h1{color: white;
+font-size:70px;
+font-family: 'Playfair Display', serif;
+text-align:left;
+}
+.Logo{ height: 100px;
+  width: 30%;
+  float: inherit;
+}
+.Contenedor{
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+body { background-image: url("img/IMG_8612 (1).JPG");
+background-repeat: no-repeat;
+background-size: cover;
+height: 1000px;
+width: 100%
+  }
+.Home{
+      color: Black;
+      height: 30px;
+      width: 15%;
+      float: left;
+  }
+.Home a:link, .Home a:visited{
+    text-decoration: none;
+    display: inline-block;
+background-color: #f443366;
+color: Black;
+padding: 14px 25px;
+text-align: center;
+  }
+.Home a:hover, .Home a:active{
+    background-color: red;
+  }
+.Jugadores{
+  color: Black;
+  height: 30px;
+  width: 15%;
+  float: left;
+}
+.Jugadores a:link, .Jugadores a:visited{
+  text-decoration: none;
+  display: inline-block;
+background-color: #f443366;
+color: Black;
+padding: 14px 25px;
+text-align: center;
+}
+.Jugadores a:hover, .Jugadores a:active{
+  background-color: red;
+}
+.Fixture{
+  color: Black;
+  height: 30px;
+  width: 15%;
+  float: left;
+}
+.Fixture a:link, .Fixture a:visited{
+  text-decoration: none;
+  display: inline-block;
+background-color: #f443366;
+color: black;
+padding: 14px 25px;
+text-align: center;
+}
+.Fixture a:hover, .Fixture a:active{
+  background-color: rgb(216, 36, 36);
+}
+.Resultados{
+color: Black;
+height: 30px;
+width: 15%;
+float: left;
+}
+.Resultados a:link, .Resultados a:visited{
+text-decoration: none;
+display: inline-block;
+background-color: #f443366;
+color: black;
+padding: 14px 25px;
+text-align: center;
+}
+.Resultados a:hover, .Resultados a:active{
+  background-color: red;
+}
+.Loquepaso{
+color: Black;
+height: 30px;
+width: 15%;
+float: left;
+}
+.Loquepaso a:link, .Loquepaso a:visited{
+text-decoration: none;
+display: inline-block;
+background-color: #f443366;
+color: black;
+padding: 14px 25px;
+text-align: center;
+}
+.Loquepaso a:hover, .Loquepaso a:active{
+  background-color: red;
+}
+.HistoriadelClub{
+  color: Black;
+  height: 30px;
+  width: 15%;
+  float: left;
+}
+.HistoriadelClub a:link, .HistoriadelClub a:visited{
+  text-decoration: none;
+  display: inline-block;
+background-color: #f443366;
+color: black;
+padding: 14px 25px;
+text-align: center;
+}
+.HistoriadelClub a:hover, .HistoriadelClub a:active{
+  background-color: red;
+}
+footer{  height: 50px;
+  background-color: rgb(216, 36, 36);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  rgb(216, 36, 36);
+}
+ol{
+  background-color: rgba(255, 255, 255, 0.2);
+  font-size: 30px;
+  line-height: 30px;
+  margin-top: 50px;
+}
+ol:hover{
+  color: rgb(191, 61, 52);
+}
+table, th, td{
+border: 1px solid black;
+background-color: rgba(255, 255, 255, 0.2);
+margin-top: 50px;
+}
+h3{
+  background-color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 27px;
+  color: rgb(0, 0, 0);
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+}
+h4{
+  background-color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+}

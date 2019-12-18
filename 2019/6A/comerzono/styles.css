@@ -1,0 +1,161 @@
+h1{
+  font-family: 'Notable', sans-serif;
+  font-size: 50px;
+  background-color: #ebbd49;
+  border: 1px solid black;
+  margin-left: 40px;
+  margin-right: 20px;
+
+}
+header{
+}
+li{
+    width:25%;
+    float:left;
+    background-color:#ebbd49;
+    list-style:none;
+    font-family: 'Francois One', sans-serif;
+}
+p{
+    font-family: 'Francois One', sans-serif;
+    font-size: 15px;
+}
+.que{
+  font-size: 30px;
+}
+.comidas{
+  overflow: hidden;
+  margin-left: 140px;
+}
+.comidarapida{
+    width: 500px;
+    height: 400px;
+    float: left;
+    margin: 10px
+}
+.parasentarse{
+    width: 448px;
+    height: 550px;
+    float: left;
+    margin: 10px
+}
+.pizza{
+  width: 150px;
+  height: 100px;
+  float:left;
+  overflow:hidden;
+  margin-left: 20px;
+}
+.empanadas{
+  width: 150px;
+  height: 100px;
+  float:right;
+  overflow:hidden;
+  margin-left: 20px;
+}
+.sushi{
+    width: 320px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+  }
+.hamburguesa{
+    width: 320px;
+    height: 230px;
+    float: left;
+    margin: 10px;
+  }
+.parilla{
+    width: 320px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    }
+.pasta{
+    width: 320px;
+    height:200px;
+    float: left;
+    margin: 10px;
+ }
+ .mcdonalds{
+     width: 300px;
+     height:200px;
+     float: right;
+     margin-right: 15px;
+}
+.parasentarse img{
+  width: 100%;
+}
+.comidarapida img{
+  width: 100%;
+}
+.sushi img{
+  width: 100%;
+}
+.hamburguesa img{
+  width: 100%;
+}
+.pasta img{
+  width: 100%;
+}
+.parilla img{
+  width: 100%;
+}
+.restaurantes{
+  width:98%;
+  float: right;
+  background-color:#ebbd49;
+  list-style:none;
+  font-family: 'Francois One', sans-serif;
+  overflow: hidden;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.restaurantes1{
+
+  overflow: hidden;
+  float: left;
+  width: 98%;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+.suegerencias{
+  font-family: 'Francois One', sans-serif;
+  font-size: 20px;
+}
+.whatsapp{
+  width: 50px;
+  height:50px;
+}
+*{
+  box-sizing: border-box;
+}
+h2{
+  font-family: 'Notable', sans-serif;
+  font-size: 35px;
+}
+h3{
+  font-family: 'Notable', sans-serif;
+  font-size: 20px;
+}
+h5{
+  font-family: 'Roboto', sans-serif;
+}
+.barra{
+  overflow: hidden;
+  width: 100%
+}
+iframe{
+  align-content: center;
+  height: 450px;
+  width: 600px;
+  float: inherit;
+}
+footer{
+  font-family: 'Notable', sans-serif;
+  font-size: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

@@ -1,0 +1,138 @@
+body{
+  background-color: #CEECF5;
+  color: black;
+  font-family: 'Jomolhari', serif;
+
+}
+
+.division{
+  background-color: red;
+  color:blue;
+  width: 30%;
+  height: 600px;
+  margin: 20px;
+
+}
+li{
+  width: 25%;
+  float: left;
+  border: ;
+  list-style: none;
+
+}
+*{
+  box-sizing: border-box;
+}
+
+.p1{
+  width: 100%;
+  height: 100%;
+}
+
+.barra{
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 210px;
+
+}
+
+.barra:hover {
+  color: black;
+  background-color: white;
+  width: 100%;
+}
+
+
+.q2{
+  width: 200px;
+  height:160px;
+  float: left;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 100px;
+}
+
+
+.rda{
+  font-size: 50px;
+}
+.parrafo{
+  float: left;
+  font-size: 24px;
+  width: 50%;
+  margin-left: 50px;
+}
+.logo{
+  width: 300px;
+  float: right;
+  overflow: hidden;
+  width: 30%;
+  margin-right: 45px;
+margin-top: 20px;
+}
+.mapa {
+  float: right;
+  width: 570px;
+  overflow: hidden;
+  margin-right: 20px;
+}
+.textoa {
+  align-content: center;
+  font-family: 'Jomolhari', serif;
+}
+.n2 {
+  font-size: 20px;
+  font-family: 'Jomolhari', serif;
+}
+.nie{
+  width:600px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.opciones {
+  font-size: 15px;
+  margin-left: 90px;
+  align-items: center;
+}
+
+.lista {
+  display: grid;
+  font-size: 20px;
+  margin-right: 60px;
+}
+
+.opcion {
+  font-style: italic;
+}
+
+.fotop{
+  float: right;
+  height: 350px;
+  width: 600px;
+}
+.fotopas{
+  float: right;
+  height: 350px;
+  width: 600px;
+  margin-left: 4px;
+}
+.fotod{
+  float: right;
+  height: 320px;
+  width: 600px;
+
+}
+.fotodul{
+  float: right;
+  height: 350px;
+  width: 600px;
+}
+
+.textoimg{
+  font-size: 17px;
+}

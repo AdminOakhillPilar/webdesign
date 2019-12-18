@@ -1,0 +1,55 @@
+body{
+  background-image: url(gym.jpg);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.topnav a {
+  float: center;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  margin-left: 120px;
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.topnav a:hover {
+  background-color: red;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: white;
+}
+.gym{
+  text-align: center;
+  font-size: 160px;
+  color: rgb(173, 16, 37);
+}
+.gym2{
+  font-size: 70px;
+  color: rgb(173, 16, 37);
+  text-align: center;
+}
+
+.gym3 {
+  text-align: center;
+}
+
+.gym3 a{
+  text-align: center;
+  color: rgb(173, 16, 37);
+  font-size: 100px;
+}
+
+.gyym a{
+  font-size: 60px;
+  color: rgb(173, 16, 37);
+  text-decoration: none;
+}
+footer{
+  font-size: 30px;
+  color: red;
+}

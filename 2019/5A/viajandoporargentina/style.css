@@ -1,0 +1,44 @@
+ul{
+  overflow: hidden;
+  background-color: black;
+  padding: 0px;
+}
+li{
+  float: left;
+  list-style: none;
+  width: 33%;
+  text-align: center;
+  padding: 23px;
+  box-sizing: border-box;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: grey;
+}
+header{
+  height: 50px;
+}
+main{
+  height: 700px;
+}
+footer{
+  height: 70px;
+  float:right;
+}
+main{
+  margin-right: 40px;
+  margin-left: 35px;
+  text-align: 100px left;
+  width: 600px;
+}
+img{
+  height: 700px;
+  width: 400px;
+  text-align:100px right;
+  float: right;
+  margin-top:20px;
+  margin-right: 60px;
+}

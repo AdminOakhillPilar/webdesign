@@ -1,0 +1,297 @@
+header {
+  height: 150px;
+  width: 100%;
+  background-color: white;
+}
+.logo {
+  float: left;
+  margin-left: 15%;
+
+
+}
+
+.logo img {
+  margin-top: 18px;
+
+}
+
+.navbar {
+  float: left;
+
+}
+
+.navbar ul {
+
+}
+
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 50px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar ul li a{
+  text-decoration: none;
+  color: #4a64a6;
+}
+
+.navbar ul li a:hover {
+  text-decoration: none;
+  color: #ffcc24;
+}
+
+.actual {
+  text-decoration: none;
+  color: #ffcc24;
+}
+
+main {
+  width: 100%;
+  /* height: 8120px; */
+}
+
+#main-trabajosdealumnos {
+  /* height: 8650px; */
+  height: auto;
+}
+
+#main-proyecto {
+  height: 700px;
+}
+
+.box {
+  width: 100%;
+  height: 400px;
+}
+
+.boxcurso {
+  width: 100%;
+  padding-left: 13%;
+  padding-right: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  box-sizing: border-box;
+}
+
+#quintoa2019 {
+  background-color: #f2d449;
+  height: 950px;
+  /* margin-top: 0px; */
+}
+
+#quintoa2019 h2 {
+  color: #474747;
+  float: left;
+  width: 90%;
+}
+#quintoa2019 h3 {
+  color: #474747;
+}
+#quintoa2019 p {
+  color: #474747;
+}
+
+#quintob2019 {
+  background-color: #6a989a;
+  width: 100%;
+  height: 1140px;
+}
+
+#quintob2019 h2 {
+  color: white;
+  float: left;
+  width: 90%;
+}
+#quintob2019 h3 {
+  color: white;
+}
+#quintob2019 p {
+  color: white;
+}
+
+#quintoc2019 {
+  background-color: #4a64a6;
+  height: 1330px;
+}
+
+#quintoc2019 h2 {
+  color: white;
+  float: left;
+  width: 90%;
+}
+#quintoc2019 h3 {
+  color: white;
+}
+#quintoc2019 p {
+  color: white;
+}
+
+#quintod2019 {
+  background-color: #711431;
+  height: 950px;
+}
+
+#quintod2019 h2 {
+  color: white;
+  float: left;
+  width: 90%;
+}
+
+#quintod2019 h3 {
+  color: white;
+}
+#quintod2019 p {
+  color: white;
+}
+
+#sextoa2019 {
+  background-color: #f2d449;
+  height: 1140px;
+  margin-top: 0px;
+}
+
+#sextoa2019 h2 {
+  color: #474747;
+  float: left;
+  width: 90%;
+}
+#sextoa2019 h3 {
+  color: #474747;
+}
+#sextoa2019 p {
+  color: #474747;
+}
+
+#sextob2019 {
+  background-color: #6a989a;
+  height: 950px;
+}
+
+#sextob2019 h2 {
+  color: white;
+  float: left;
+  width: 90%;
+}
+#sextob2019 h3 {
+  color: white;
+}
+#quintob2019 p {
+  color: white;
+}
+
+#sextod2019 {
+  background-color: #4a64a6;
+  height: 1540px;
+}
+
+#sextod2019 h2 {
+  color: white;
+  float: left;
+  width: 90%;
+}
+#sextod2019 h3 {
+  color: white;
+}
+#sextod2019 p {
+  color: white;
+}
+
+.negrita{
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.web {
+  float: left;
+  overflow: auto;
+  width: 40%;
+  height: 150px;
+  background-color: rgba(255,255,255,0.3);
+  padding: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.thumb {
+  height: 150px;
+  width: 35%;
+  background-color: white;
+  float: left
+}
+
+
+.info {
+  float: right;
+  height: 150px;
+  width: 60%;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* .curso {
+  width: 88%; estaba puesto desde antes me parece. no lo borro por las dudas.
+} */
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+
+footer {
+  height: 200px;
+  background-color: white;
+}
+
+footer p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+footer img {
+  display:block;
+  margin:auto;
+  margin-top: 35px;
+}
+
+.intro {
+  width: 72%;
+  box-sizing: border-box;
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: auto;
+  color: white;
+  margin-left: 13%;
+  margin-bottom: 60px;
+}
+
+.intro p {
+    /* text-align: justify; */
+}
+
+.intro-fondo {
+  width: 100%;
+  background-color: #711431;
+}
+
+#titulo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}

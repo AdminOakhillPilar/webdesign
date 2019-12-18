@@ -1,0 +1,39 @@
+.tips{
+  width: 100%;
+  float: left;
+}
+img{
+  width: 60%;
+  float: left;
+}
+body{
+  background-color:white;
+}
+header{
+  overflow:hidden;
+}
+.puntos{
+  background-color: black;
+  list-style: none;
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+}
+.puntos li{
+  float: left;
+  margin: 10px;
+}
+a{
+  color: white;
+}
+header{
+  color: black;
+  float: inherit; 100%;
+}
+footer{
+ background-color: pink;
+ float: right;
+}
+main{
+  background-color: pink;
+}

@@ -1,0 +1,144 @@
+
+body {
+background-color: black;
+}
+
+h1 {
+font-family: 'Grenze', serif;
+font-size: 100px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+color: white;
+margin-top: inherit;
+}
+
+/*BARRA DE NAVEGACION HORIZONTAL*/
+
+.BOTONES{
+list-style-type: none;
+margin: auto;
+padding:  inherit;
+background-color: rgba(72, 163, 24, 0.5);
+overflow: hidden;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+
+
+li a{
+float: left;
+display: block;
+color: black;
+text-align: center;
+box-sizing: border-box;
+padding: 12px;
+text-decoration: none;
+font-family: 'Grenze', serif;
+font-size: 20px;
+}
+
+li a:hover{
+color: white;
+}
+
+
+.b1 {
+height: 200px;
+width: 180px;
+background-color: black;
+margin: 10px;
+}
+
+.contenedor{
+overflow: hidden;
+margin-top: 100px;
+margin-left: 200px;
+margin-right: 125px;
+float: left;
+display: flex,
+}
+
+.b1 img:hover{
+src: url("buzo-pagina-principal4.jpg");
+}
+
+
+.infopie{
+color: white;
+text-align: center;
+font-family:  'Grenze', serif;
+font-size: 20px;
+margin-top: 20px;
+
+}
+
+
+.slideshow-container {
+overflow: hidden;
+display: flex;
+justify-content: space-around;
+}
+
+.REMERAS {
+float: left;
+}
+
+footer{
+  height: 200px;
+  padding-top: 50px;
+  float: left;
+  text-align: center;
+  width: 100%;
+
+}
+
+h2 {
+color: white;
+text-align: left;
+font-family:  'Grenze', serif;
+font-size: 50px;
+margin-top: 50px;
+
+text-align: center;
+
+}
+
+
+.Contacto2 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  width: 300px;
+margin-left: 120px;
+}
+
+
+.lista1 {
+float: left;
+color: white;
+font-family: 'Grenze', serif;
+font-size: 30px;
+margin-left: 180px;
+}
+
+.lista2 {
+float: right;
+color: white;
+font-family: 'Grenze', serif;
+font-size: 30px;
+margin-right: 180px;
+}
+
+h3 {
+  font-family: 'Grenze', serif;
+  font-size: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 100px;
+  text-decoration-color: white;
+
+}

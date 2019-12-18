@@ -1,0 +1,99 @@
+
+.navbar{
+  margin: 70px;
+  margin-bottom: 40px;
+}
+body{
+background-image: url("fondo.jpg");
+}
+h1{
+  margin-left: 550px;
+  margin-bottom: 150px;
+  margin-top: 150px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.ROCKNACIONAL {
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 290px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 240px;
+  padding-top: 29px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+.JAZZ{
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 290px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 240px;
+  padding-top: 26px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+.HIPHOP{
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 290px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 240px;
+  padding-top: 26px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+.REGGAETON {
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 290px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 240px;
+  padding-top: 26px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+.TRAP{
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 290px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left: 240px;
+  padding-top: 26px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+.POP{
+  width: 40%;
+  height: 75px;
+  background-color: #633E49;
+  margin-left: 290px;
+  float: left;
+  margin-bottom: 100px;
+  padding-left:240px;
+  padding-top: 26px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}

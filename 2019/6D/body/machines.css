@@ -1,0 +1,49 @@
+body {
+  background-color: grey;
+}
+.topnav a {
+  float: center;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  margin-left: 120px;
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.topnav a:hover {
+  background-color: red;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: white;
+}
+.giim{
+  font-size: 40px;
+}
+.gim{
+  text-align: center;
+}
+.gym4{
+  font-size: 60px;
+  color: red;
+  text-align: left;
+}
+.gym5{
+  font-size: 100px;
+  color: rgb(132, 23, 23);
+  text-align: center;
+}
+.gym6{
+  font-size: 100px;
+  color: rgb(132, 23, 23);
+  text-align: center;
+}
+img{
+  width: 600px;
+  height: 600px;
+  text-align: center;
+}

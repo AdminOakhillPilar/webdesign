@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+h1{
+  color: white;
+  font-size: 260%;
+  font-family: 'Lekton', sans-serif;
+}
+li{
+  width: 24%;
+  float: left;
+  font-family: 'Lekton', sans-serif;
+  list-style: none;
+  color: #FFFFFF;
+  display: inline;
+}
+
+li:hover{
+  text-decoration: underline;
+  }
+
+footer{
+  color:white;
+  font-family: 'Lekton', sans-serif;
+}
+p{
+  font-family: 'Lekton', sans-serif;
+  color: white;
+  font-size: 25px;
+}

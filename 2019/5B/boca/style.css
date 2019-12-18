@@ -1,0 +1,50 @@
+h1{
+  color:yellow;
+  font-size: 200xp;
+  align: center;
+  }
+  body{
+  background-image: url(image.png);
+  background-repeat: no-repeat;
+  background-size: 1300px 900px;
+  height: 100px;
+  width: 99.4%;
+ }
+p{
+  height: 50px;
+  width: 500px;
+  color: white;
+  font-size: 400xp;
+  font-style: italic;
+
+}
+img{
+  width: 400px;
+  height: 260px;
+  float: right;
+  margin-right: 0.5px;
+}
+a{
+  float: right;
+  margin-right: 0.5px;
+  color: white;
+}
+
+h2{
+  color:yellow;
+  font-size: 50px;
+}
+
+h5{
+  height: 50px;
+  width: 500px;
+  color: white;
+  font-size:1
+0px;
+  font-style: sans-serif;
+}
+footer{
+ color: white;
+ height: 50px;
+ width: 500px;
+}

@@ -1,0 +1,15 @@
+title{color: white;
+background-color: red;
+font-family: fantasy;
+box-sizing: border-box;
+background-color: black;}
+
+body{background-color: black;}
+img{width: inherit;
+height: inherit;
+margin-left: 230px;
+background-color: black;}
+a {color: white;
+background-color: red;
+font-family: fantasy;
+box-sizing: border-box;}

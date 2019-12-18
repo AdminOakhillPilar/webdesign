@@ -1,0 +1,27 @@
+body{
+  background-image: url(imagen.webp);
+  background-repeat: no-repeat;
+}
+h1{
+  font-size: 60px;
+  color: rgb(247, 5, 37);
+}
+.topnav a {
+  float: center;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 35px;
+  margin-left: 120px;
+  background-color: rgba(0, 0, 0, .5);
+}
+.topnav a:hover {
+  background-color: red;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: white;
+}

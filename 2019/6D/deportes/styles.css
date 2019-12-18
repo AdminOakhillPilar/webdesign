@@ -1,0 +1,45 @@
+h2{font-family: 'Indie Flower', cursive;
+}
+body{
+  font-family: 'Lakki Reddy', cursive;
+
+}
+.uno{
+  background-color: white;
+  height: 500px;
+  width: 60%;
+  float: left;
+}
+.dos{
+background-color: white;
+height: 500px;
+width: 60%;
+float: left;
+
+}
+.tres{
+background-color:white;
+height: 500px;
+width: 60%;
+}
+.contenedor{
+  overflow: hidden;
+}
+.barra ul{
+    overflow: hidden;
+    background-color: #fa773d;
+    padding:0px
+  }
+.barra li{
+      float:left;
+      list-style: none;
+      width: 20%;
+      text-align: center;
+      padding: 10px;
+      box-sizing: border-box;
+  }
+footer{
+  position: fixed;
+ bottom: 10px;
+ left:700px;
+}

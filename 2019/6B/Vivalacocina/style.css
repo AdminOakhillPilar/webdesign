@@ -1,0 +1,128 @@
+*{
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+h1{
+  font-size: 70px;
+  font-style: italic;
+  background-color: pink;
+}
+h2{
+  font-size: 50px;
+  align:center;
+}
+
+.CLASE1 {
+background-color: gray;
+width: 25%;
+float: left;
+align-items: center;
+justify-content: center;
+margin: 50px;
+color: white;
+padding: 10px;
+
+
+}
+.contenedor{
+  overflow: hidden;
+}
+.foter{
+float: left;
+margin-top: 250px;
+width: 100%;
+}
+.foter ul{
+  list-style: none;
+}
+.clase2 {
+  width: 100%;
+  background-color:#c4c2cc;
+}
+
+.clase2 img {
+  height: 300px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.contenedoruno{
+  overflow: hidden;
+  margin-left: 50px;
+}
+.clase3{
+  width: 30%;
+  height: 200px;
+  float: left;
+margin: 10px;
+}
+.clase3 img{
+  width: 100%;
+
+}
+footer{
+  background-color: pink;
+}
+
+
+
+main {
+  height: 330px;
+}
+.contenedordos{
+  overflow: hidden;
+}
+h6{
+  font-size: 40px;
+  margin-top: 70px;
+  margin-bottom: 0px;
+
+}
+ul{
+  font-size: 20px;
+}
+h5 img {
+  float:right;
+  height: 400px;
+  width: 600px;
+
+}
+h4 {
+  font-size: 30px;
+}
+
+.recetas {
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.pasos li{
+  font-size: 20px;
+}
+
+.pasos {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.home {
+  color: black;
+  margin-top: 15px;
+  margin-left: 700px;
+  font-style: italic;
+  background-color: grey;
+}
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+   background-color: black;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}

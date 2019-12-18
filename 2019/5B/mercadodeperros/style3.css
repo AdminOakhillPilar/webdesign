@@ -1,0 +1,15 @@
+ul{overflow:hidden;
+  background-color: orange;
+  padding: 0px;
+  float:none;
+  }
+
+li{float:left;
+   list-style: none;
+   padding: 20px;
+   width: 20%;
+   box-sizing: border-box;
+   text-align: center;}
+a{color: green;
+  text-decoration: none;}
+body{background-color:green;}

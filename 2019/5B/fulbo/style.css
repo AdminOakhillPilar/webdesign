@@ -1,0 +1,41 @@
+ul{
+  overflow:hidden;
+  background-color:#9370DB;
+padding:0px
+}
+li{
+  float:left;
+  list-style: none;
+  width:21%;
+  text-align: center;
+  padding: 11px;
+  box-sizing: border-box;
+}
+a{
+  color:yellow;
+  text-decoration: overline;
+
+}
+h1{
+  color:white;
+  background-color:black;
+  padding: 20px;
+
+}
+.coca{
+  color:black;
+  background-color:purple;
+  padding: 20px;
+}
+p{
+  background-color:lightblue;
+}
+body{
+  background-image: url(diego.jpg);
+}
+footer
+{
+  background-color:black;
+  color:grey;
+
+}

@@ -1,0 +1,17 @@
+h1{
+  front-size:250xp
+  align-content: center;
+}
+img{
+  width:20%;
+  height: 120px;
+}
+
+header{
+  background-color: white;
+}
+
+
+body{
+  background-color: grey;
+}

@@ -1,0 +1,117 @@
+*{
+box-sizing: border-box;
+}
+h1{
+  color:white;
+  background-color: #f9597c;
+  font-size: 65;
+  font-style:oblique;
+  text-align:center;
+  font-family:inherit;
+  height: 200px;
+  margin: 0px;
+}
+h2{
+  color:#ff829d;
+  font-size:50;
+  font-style:oblique 10deg;
+}
+h4{
+  color:#eab95d;
+  font-size:40;
+  font-style:oblique 10deg;
+  margin-bottom: 2px;
+}
+
+p{
+  font-size:30;
+  font-style:oblique 8deg;
+}
+.UNO{
+  font-size:30;
+  font-style:oblique 8deg;
+  border: none;
+  padding: 10px;
+  text-align:justify;
+}
+ul{
+  font-size:30;
+  overflow: hidden;
+  padding: 0px;
+}
+.UNO li{
+  float: left;
+  font-size: 30;
+  text-align: center;
+  list-style: none;
+  padding: 5px;
+  box-sizing: border-box;
+  width: 23%;
+  margin: 10px;
+  background-color:
+}
+a{
+font-style:oblique 8deg;
+color: white;
+background-color: #f9597c;
+text-decoration: none;
+}
+.tituloprincipal{
+width: 83.9%;
+float: right;
+height: 200px;
+}
+.contenedor{
+overflow: hidden;
+}
+.logo img{
+height: 200px;
+padding-left: 30px;
+}
+.logo
+{
+width: 25%;
+height: 200px;
+float: left;
+}
+.titulo{
+width: 74%;
+float: right;
+padding-right: 30px;
+}
+a:hover{
+  color: #f9597c;
+  background-color: white;
+}
+.torta{
+  height: 220px;
+  width: 220px;
+  float: left;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.torta img{
+  height: 100%;
+  width: 100%;
+  float: left;
+}
+.contenetorta{
+  margin-left:100px;
+}
+.masitas{
+  height: 220px;
+  width: 220px;
+  float: left;
+  overflow: hidden;
+  margin: 5px;
+}
+.masitas img{
+  height: 100%;
+  width: 100%;
+  float: left;
+}
+
+main {
+  overflow: hidden;
+}

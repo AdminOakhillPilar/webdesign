@@ -1,0 +1,26 @@
+
+.Gorila{
+  size: 20px;
+  color: red;
+  text-align: center;
+}
+
+.mareng{
+  color: red;
+  border: 5px dashed yellow;
+  text-align: center;
+}
+.felpa img{
+width: 30%;
+height: 330px;
+}
+body{
+  background-image: url("corea flag.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Miguel{
+  background-image: url("img/Rojoo.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
